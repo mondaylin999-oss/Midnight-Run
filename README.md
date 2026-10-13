@@ -1,6 +1,6 @@
 MIDNIGHT RUN — Pixel traffic survival
 
-Version 1.1.0 — Combat update
+Version 1.2.0 — Combat update
 
 HOW TO PLAY
 Double-click Midnight Run.html. It opens in your desktop browser.
@@ -23,7 +23,7 @@ Your supplied pixel-art image is embedded as the driver portrait.
 Game graphics and audio are generated locally. No external assets are loaded.
 Use a current desktop browser such as Edge, Chrome, or Firefox.
 
-NEW COMBAT CONTROLS (v1.1.0)
+NEW COMBAT CONTROLS (v1.2.0)
 A / D: steer left / right (arrow keys also work)
 W: jump over traffic; protected from collisions for 1.1 seconds
 Jump recharges 2.5 seconds after takeoff. Release W and press again.
