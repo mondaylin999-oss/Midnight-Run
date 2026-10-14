@@ -3,7 +3,7 @@ MIDNIGHT RUN — Pixel traffic survival
 Version 1.2.0 — Combat update
 
 HOW TO PLAY
-Double-click Midnight Run.html. It opens in your desktop browser.
+Open index.html. It works locally in your desktop browser and is the Vercel deployment entry point.
 No installation, server, account, or internet connection is required.
 
 Enter / Space: start or restart
